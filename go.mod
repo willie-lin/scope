@@ -82,12 +82,12 @@ require (
 	github.com/weaveworks/tcptracer-bpf v0.0.0-20200114145059-84a08fc667c0
 	github.com/weaveworks/weave v2.3.1-0.20180427133448-4da998ab4507+incompatible
 	github.com/willdonnelly/passwd v0.0.0-20141013001024-7935dab3074c
-	golang.org/x/net v0.0.0-20191004110552-13f9640d40b9
-	golang.org/x/sync v0.0.0-20190911185100-cd5d95a43a6e
-	golang.org/x/sys v0.0.0-20200122134326-e047566fdf82
-	golang.org/x/text v0.3.1-0.20171227012246-e19ae1496984 // indirect
+	golang.org/x/net v0.0.0-20220722155237-a158d28d115b
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
+	golang.org/x/text v0.3.8 // indirect
 	golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2
-	golang.org/x/tools v0.0.0-20190424220101-1e8e1cfdf96b
+	golang.org/x/tools v0.1.12
 	google.golang.org/grpc v1.19.0
 	gopkg.in/inf.v0 v0.9.0 // indirect
 	k8s.io/api v0.0.0-20181204000039-89a74a8d264d
